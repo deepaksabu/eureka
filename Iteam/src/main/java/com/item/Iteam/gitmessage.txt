@@ -2,4 +2,4 @@ Subject line
 
 Multiline
 
-[Ticket:x]
+[Ticket:x]\\
